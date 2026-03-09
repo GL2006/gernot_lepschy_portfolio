@@ -29,7 +29,7 @@ const texts = {
         others_list: `<li><a href = "https://www.wko.at/unternehmerfuehrerschein">Unternehmerführerschein</a><ul><li>bei der WKO Oberösterreich</li>
             <li>Skills in Sachen Steuern/ Buchhaltung</li></ul></li><li>Rettungssanitäter<ul><li>Freiwilliges Engagement beim Roten Kreuz</li>
             <li>Dort auch 9 Monate Zivildienst absolviert.</li></ul></li><li>Sprachen:<ul><li>Deutsch: Muttersprache</li>
-            <li>Englisch: Augezeichnet in Schrift und Sprache (bei Matura sehr gut)</li><li>Französisch: Gesprächssicher</li>
+            <li>Englisch: Ausgezeichnet in Schrift und Sprache (bei Matura sehr gut)</li><li>Französisch: Gesprächssicher</li>
             <li>Spanisch: Anfängerlevel</li><li>Latein: Grundzüge</li><li>Indonesisch: Grundzüge (Duolingo)</li></ul></li><li>Führerschein Klasse B
             & AM</li><li>Video-Editing</li><li>Debattieren</li>
             `
@@ -50,7 +50,7 @@ const texts = {
             <li>Skills in taxes/ accounting</li></ul></li><li>Rettungssanitäter/Paramedic<ul><li>Volunteering at the Red Cross</li>
             <li>Completion of 9 months of civil service there</li></ul></li><li>Languages:<ul><li>German: native</li>
             <li>English: excellent (at the A-levels excellent)</li><li>French: ready to converse</li>
-            <li>Spanich: beginner</li><li>Latin: basics</li><li>Indonesian: basics (Duolingo)</li></ul></li><li>Driverslicense classe B
+            <li>Spanish: beginner</li><li>Latin: basics</li><li>Indonesian: basics (Duolingo)</li></ul></li><li>Driverslicense classe B
             & AM (car & motorbike)</li><li>Video-Editing</li><li>Debating</li>
             `
     }

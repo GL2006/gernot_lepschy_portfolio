@@ -32,9 +32,9 @@ const texts = {
             <li><a href="DownloadableFiles/ImageEditorGernotLepschy.zip" download>Download für das Projekt</a></li>      
             `,
         java_rt_list: `<li>Projekt zum Rendering von 3D Szenen mit Java </li>
-            <li>Paralelle Ausführung</li>
+            <li>Parallele Ausführung</li>
             <li>Manuelle Eingabe über Main-Klasse</li>
-            <li>.obj Dateien weden unterstützt</li>
+            <li>.obj-Dateien weden unterstützt</li>
             <li><a href="DownloadableFiles/code.pdf" download>Download für den Code (kein User Interface implementiert)</a></li>
             <li><a href="DownloadableFiles/JavaRayTracerDemo.zip" download>Download des Projekts (kein User Interface implementiert)</a></li>
             `,
@@ -65,14 +65,14 @@ const texts = {
             <li><a href="DownloadableFiles/ImageEditorGernotLepschy.zip" download>Download the project</a></li>      
             `,
         java_rt_list: `<li>Project to render 3D scenes with Java </li>
-            <li>Paralell Execution</li>
+            <li>Parallel Execution</li>
             <li>Manual Input through Main-Class</li>
             <li>.obj files supported</li>
             <li><a href="DownloadableFiles/code.pdf" download>Download code (no user interface implemented)</a></li>
             <li><a href="DownloadableFiles/JavaRayTracerDemo.zip" download>Download project (no user interface implemented)</a></li>
             `,
         java_stat_list: `<li>Project to calculate probabilities</li><li>Approximation of the Normal Distribution</li>
-            <li>exact Binomial Distributipn/li><li>Terminal User Interface</li>
+            <li>exact Binomial Distribution/li><li>Terminal User Interface</li>
             <li><a href="DownloadableFiles/StatisticsProject.zip" download>Download for the Project</a></li>
             `,
         urpg_list: `<li>New Game-Development-Project</li><li>Again Unity 3D and C# with 3D-Models from Blender</li>
