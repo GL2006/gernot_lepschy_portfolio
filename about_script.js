@@ -18,7 +18,7 @@ if(savedTheme){
 const texts = {
     de: {
         title: "Über mich:",
-        description: "Ich wurde 2006 geboren und bin demnach nun schon beinahe 20 Jahre alt. Ich besuchte den Kindergarten und die Volksschule "+
+        description: "Ich wurde 2006 geboren und bin demnach nun 20 Jahre alt. Ich besuchte den Kindergarten und die Volksschule "+
             "in meinem Ort und ging anschließend zum Akademischen Gymnasium, wo ich dann auch 8 Jahre war. Im Juni 2024 schloss ich dies mit der "+
             "Matura ab und wurde durch meinen guten Schnitt (ausgezeichneter Erfolg) geehrt. Anschließend absolvierte ich meinen Zivildienst beim "+
             "Roten Kreuz. Seit Oktober 2025 studiere ich an der JKU in Linz Wirtschaftsinformatik. Das erste Semester konnte ich schon mit 40 ECTs "+
@@ -30,7 +30,7 @@ const texts = {
     },
     en: {
         title: "About me:",
-        description: "I was Born in 2006 and am thus already almost 20 years old. I went to the kindergarten and Primary school "+
+        description: "I was Born in 2006 and am thus 20 years old. I went to the kindergarten and Primary school "+
             "in my town and afterwards attended the 'Akademisches Gymnasium' for 8 years and graduated in June of 2024 with the "+
             "Matura exam. I passed excelently and was honored as such too. Afterward I did my civil service at the "+
             "Red Cross. Since October of 2025 I attend JKU University and study Business Informatics "+
