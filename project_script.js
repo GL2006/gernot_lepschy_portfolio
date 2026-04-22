@@ -38,6 +38,11 @@ const texts = {
             <li><a href="DownloadableFiles/code.pdf" download>Download für den Code (kein User Interface implementiert)</a></li>
             <li><a href="DownloadableFiles/JavaRayTracerDemo.zip" download>Download des Projekts (kein User Interface implementiert)</a></li>
             `,
+        java_crpg_list: `<li>Kleines Konsolen Spiel</li>
+            <li>Nutzt eine abgespeckte Variante des 3D-Renderers</li>
+            <li>Kämpfe und 3D Exploration</li>
+            <li><a href="DownloadAbleFiles/consoleRPG.zip" download> Download des Projekts</a></li>
+        `,
         java_stat_list: `<li>Projekt zur Berechnung von Wahrscheinlichkeiten</li><li>Approximation der Normalverteilung</li>
             <li>genaue Berechnung der Binomialverteilung</li><li>Terminal User Interface</li>
             <li><a href="DownloadableFiles/StatisticsProject.zip" download>Download für das Projekt</a></li>
@@ -71,6 +76,11 @@ const texts = {
             <li><a href="DownloadableFiles/code.pdf" download>Download code (no user interface implemented)</a></li>
             <li><a href="DownloadableFiles/JavaRayTracerDemo.zip" download>Download project (no user interface implemented)</a></li>
             `,
+        java_crpg_list: `<li>Little Console-RPG Game</li>
+            <li>Uses a downgraded version of the Java 3D-Render</li>
+            <li>Fights and 3D Exploration</li>
+            <li><a href="DownloadAbleFiles/consoleRPG.zip" download> Download project</a></li>
+        `,
         java_stat_list: `<li>Project to calculate probabilities</li><li>Approximation of the Normal Distribution</li>
             <li>exact Binomial Distribution/li><li>Terminal User Interface</li>
             <li><a href="DownloadableFiles/StatisticsProject.zip" download>Download for the Project</a></li>
