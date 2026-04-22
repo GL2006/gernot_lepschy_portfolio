@@ -43,6 +43,13 @@ const texts = {
             <li>Kämpfe und 3D Exploration</li>
             <li><a href="DownloadAbleFiles/consoleRPG.zip" download> Download des Projekts</a></li>
         `,
+        free_list: `<li>Kleine Website</li>
+            <li>Displayed mithilfe von HTML und JavaScript Standorte für gratis Sachen auf einer Karte meines Uni-Campus'</li>
+            <li>Ursprünglich mithilfe von JSP und Oracle SQL Server umgesetzt</li>
+            <li>Dann auf HMTL+JS für Frontend portiert und ein Backend mithilfe von <a href = "https://supabase.com/" supabase>supabase</a>-SQL</li>
+            <li>Anlegen von Feldern auf der Karte, Abrufen dieser und nach 3,5h wird es in eine zweite Tabelle verschoben</li>
+            <li>Addresse: <a href = "https://gl2006.github.io/free_stuff-jku/" free_stuff@jku>free_stuff@jku</a></li>
+        `,
         java_stat_list: `<li>Projekt zur Berechnung von Wahrscheinlichkeiten</li><li>Approximation der Normalverteilung</li>
             <li>genaue Berechnung der Binomialverteilung</li><li>Terminal User Interface</li>
             <li><a href="DownloadableFiles/StatisticsProject.zip" download>Download für das Projekt</a></li>
@@ -81,6 +88,13 @@ const texts = {
             <li>Fights and 3D Exploration</li>
             <li><a href="DownloadAbleFiles/consoleRPG.zip" download> Download project</a></li>
         `,
+        free_list: `<li>Small Website</li>
+            <li>Displaying the location of free stuff on my uni campus using HTML and JavaScript</li>
+            <li>Originally implemented with JSP and Oracle SQL Server</li>
+            <li>Then ported to HMTL+JS for Frontend and Backend with <a href = "https://supabase.com/" supabase>supabase</a>-SQL</li>
+            <li>Creation of markers on the map, fetching them and transferring them to a second table after 3,5hrs</li>
+            <li>Adress: <a href = "https://gl2006.github.io/free_stuff-jku/" free_stuff@jku>free_stuff@jku</a></li>
+        `,
         java_stat_list: `<li>Project to calculate probabilities</li><li>Approximation of the Normal Distribution</li>
             <li>exact Binomial Distribution/li><li>Terminal User Interface</li>
             <li><a href="DownloadableFiles/StatisticsProject.zip" download>Download for the Project</a></li>
@@ -107,6 +121,7 @@ function updateText(){
     document.getElementById("java_stat_list").innerHTML = texts[language].java_stat_list;
     document.getElementById("urpg_list").innerHTML = texts[language].urpg_list;
     document.getElementById("java_crpg_list").innerHTML = texts[language].java_crpg_list;
+    document.getElementById("free_list").innerHTML = texts[language].free_list;
 };
 function toggleDarkMode(){
     document.body.classList.toggle("darkmode");
