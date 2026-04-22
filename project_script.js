@@ -106,6 +106,7 @@ function updateText(){
     document.getElementById("java_rt_list").innerHTML = texts[language].java_rt_list;
     document.getElementById("java_stat_list").innerHTML = texts[language].java_stat_list;
     document.getElementById("urpg_list").innerHTML = texts[language].urpg_list;
+    document.getElementById("java_crpg_list").innerHTML = texts[language].java_crpg_list;
 };
 function toggleDarkMode(){
     document.body.classList.toggle("darkmode");
