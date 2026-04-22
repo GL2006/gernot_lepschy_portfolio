@@ -21,8 +21,8 @@ const texts = {
         prog_list: `<li>Java:<ul><li>Viele <a href ="projects.html">Projekte</a></li><li>In Softwareentwicklung I an der Uni Sehr gut abgeschlossen</li></ul></li>
             <li>C#:<ul><li>Spieleprogrammierung mittels Unity</li><li>Erstellung von Microsoft Applikationen (Universal Windows Platform)</li></ul></li>
             <li>SQL:<ul><li>An der Uni in Datenmodellierung</li><li>Einfache und komplexe Queries</li><li>Erstellung von Datenbankschemata</li>
-            <li>Postgres hauptsächlich</li></ul></li><li>Python:<ul><li>Einfache Terminalapplikationen</li></ul></li><li>JavaScript:<ul>
-            <li>für diese Website/ basics</li></ul></li><li>HTML<ul><li>Diese Website</li>
+            <li>Oracle & Postgres hauptsächlich, aber auch supabase</li></ul></li><li>Python:<ul><li>Einfache Terminalapplikationen</li></ul></li><li>JavaScript:<ul>
+            <li>für diese Website/ basics</li></ul></li><li>HTML<ul><li>Diese Website und <a href="https://gl2006.github.io/free_stuff-jku/"free_stuff@jku>free_stuff@jku</a>-Website</li>
             <li>In Kombination mit Java und Jakarta Server Pages (.jsp) für Webviews von SQL</li></ul></li>
             `,
         others_title: "Anderes:",
@@ -40,8 +40,8 @@ const texts = {
         prog_list: `<li>Java:<ul><li>Many <a href ="projects.html">projects</a></li><li>In Softwaredevelopment I at University: passed Excellent</li></ul></li>
             <li>C#:<ul><li>Game development through Unity</li><li>Microsoft Applications (Universal Windows Platform)</li></ul></li>
             <li>SQL:<ul><li>Data-modelling at university</li><li>Simple & complex Queries</li><li>Creating database schemas</li>
-            <li>Postgres mainly</li></ul></li><li>Python:<ul><li>Easy Terminal-Apllications</li></ul></li><li>JavaScript:<ul>
-            <li>for this Website/ basics</li></ul></li>
+            <li>Oracle & Postgres mainly, but also supabase</li></ul></li><li>Python:<ul><li>Easy Terminal-Apllications</li></ul></li><li>JavaScript:<ul>
+            <li>for this Website and <a href="https://gl2006.github.io/free_stuff-jku/"free_stuff@jku>free_stuff@jku</a>-Website/ basics</li></ul></li>
             <li>HTML<ul><li>This Website</li><li>In combination with Java & Jakarta Server Pages (.jsp) for Webviews of SQL</li></ul></li>
             `,
         others_title: "Other:",
