@@ -58,7 +58,10 @@ const texts = {
             <li>Rundenbasiertes Rollenspiel (RPG)</li><li>3D Erkundung & Rätsel</li>
             <li>Release auf itch.io & im Microsoft Store sicher, Steam eventuell</li>
             <li>Geplante Fertigstellung Anfang 2027 (Stand jetzt)</li>
-            `
+            `,
+        rings_list: `<li>Kleines Terminal-Programm</li><li>Man fliegt durch Ringe um Highscores zu sammeln</li><li>Umgesetzt mit Java und mit dem RayTracer-Projekt als Basis</li>
+        <li><a href="DownloadableFiles/RINGS.zip" download>Download für das Projekt/Spiel</li>
+        `
 
     },
     en: {
@@ -103,7 +106,10 @@ const texts = {
             <li>Turnbased Roleplaying-Game (RPG)</li><li>3D Exploration & Puzzles</li>
             <li>Release on itch.io & on the Microsoft Store guaranteed, Steam maybe</li>
             <li>Expected release in the beginning of 2027 (as of now)</li>
-            `
+            `,
+        rings_list: `<li>Small Terminal-Program</li><li>Flying through rings to get highscores</li><li>Using Java and built upon the RayTracer-Project</li>
+        <li><a href="DownloadableFiles/RINGS.zip" download>Download for the Project/Game</li>
+        `
     }
 };
 
@@ -122,6 +128,7 @@ function updateText(){
     document.getElementById("urpg_list").innerHTML = texts[language].urpg_list;
     document.getElementById("java_crpg_list").innerHTML = texts[language].java_crpg_list;
     document.getElementById("free_list").innerHTML = texts[language].free_list;
+    document.getElementById("rings_list").innerHTML = texts[language].rings_list;
 };
 function toggleDarkMode(){
     document.body.classList.toggle("darkmode");
